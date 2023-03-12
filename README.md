@@ -1,6 +1,7 @@
 # Scrimba - Results summary HomeTown Tribute Page solution
 
-This is a solution to the Scrimba assesment chanllenge. 
+This is a solution to the Scrimba assesment. 
+
 ## Table of contents
 
 - [Overview](#overview)
@@ -15,7 +16,7 @@ This is a solution to the Scrimba assesment chanllenge.
 
 
 ## Overview
-After completeing the basic HTML and CSS course on [Scrimba](https://scrimba.com/learn/htmlandcss). idecided to build this HomeTown Tribute site as a test of the skills and knowlegde i have aquired from the course.
+After completeing the basic HTML and CSS course on [Scrimba](https://scrimba.com/learn/htmlandcss), i decided to build this HomeTown Tribute site as a test of the skills and knowlegde i have aquired from the course.
 
 ### The challenge
 
@@ -42,7 +43,8 @@ I Startded the project by first looking at the design file provided on figma, ta
 - CSS custom properties
 - Flexbox
 - Photos from [pixel](https://www.pexels.com/)
-- color Palettes[Coolors](https://coolors.co/)
+- color Palettes [Coolors](https://coolors.co/)
+- CSS Box-Shadow Property
 
 ### What I learned
   
@@ -50,7 +52,7 @@ I Startded the project by first looking at the design file provided on figma, ta
 
 
 ## Author
-- Twitter - [@yourusername](https://www.twitter.com/BIG_BENNEY)
+- Twitter [@BIG_BENNEY](https://twitter.com/BIG_BENNEY)
 
 
 ## Acknowledgments
