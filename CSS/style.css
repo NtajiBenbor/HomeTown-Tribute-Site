@@ -1,0 +1,112 @@
+@font-face {
+    font-family: Advent Pro;
+    src: url();
+}
+h1, h2, h3, h4{
+    font-family: 'Advent Pro', sans-serif;
+    font-weight: 700;
+    font-size: 1.5rem;
+} 
+
+body{
+    text-align: center;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    background: #fefae0;
+    height: 100vh;
+    box-sizing: border-box;
+   
+    
+  
+}
+.hero{
+    background-image: url("../images/Untitled\ design.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    padding: 30px 30px;
+    
+   
+}
+
+.hero-text-1{
+    border:none;
+    width: 200px;
+    padding:8px 4px;
+    border-radius: 10px;
+    display: block;
+    margin: 200px auto 16px auto;
+    background:  #fefae0;
+    color:#1D3557;
+    text-shadow: 0 0 1px;  
+}
+
+.hero-text-2{
+    border: none;
+    width: 300px;
+    padding:8px 4px;
+    border-radius: 10px;
+    display: block;
+    margin: 16px auto 200px auto;
+    background:  #fefae0;
+    color: #1D3557;
+    
+}
+
+
+.section{
+
+}
+
+.closer{
+    padding: 15px 25px;
+    width: 30%;
+    box-sizing: border-box;
+    background: #dfe7fd;
+    border-radius: 20px;
+    color: #1D3557;
+    font-size: 1.1rem;
+    box-shadow: 10px 10px 10px #ccc5b9;
+    line-height: 30px;
+}
+
+.guide-img{
+    width: 200px;
+    height: 180px;
+	border-radius: 50%;
+	border: none;
+
+}
+
+.guide{
+    width: 90%;
+    display: flex;
+    margin: 20px auto;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 20px 0;
+    
+}
+
+.card{
+    width: 400px;
+    height: 200px;
+    margin: 50px auto 100px auto;
+    border-bottom: 5px solid #1D3557;
+    border-radius: 10px;
+    padding: 30px 15px ;
+    display: flex;
+    justify-content: space-around;
+    color: #1D3557;
+    background: #e9ecef;
+    
+}
+
+.avater{
+    width: 180px;
+    height: 210px;
+    border-radius: 10px;
+}
+
