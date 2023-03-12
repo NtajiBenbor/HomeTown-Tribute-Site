@@ -15,7 +15,7 @@ This is a solution to the Scrimba assesment chanllenge.
 
 
 ## Overview
-After completeing the basic HTML and CSS course on [Scrimba](https://scrimba.com/learn/htmlandcss). i as challenge to build this HomeTown Tribute site to as a test of the skills and knowlegde i have aquired from the course.
+After completeing the basic HTML and CSS course on [Scrimba](https://scrimba.com/learn/htmlandcss). idecided to build this HomeTown Tribute site as a test of the skills and knowlegde i have aquired from the course.
 
 ### The challenge
 
@@ -35,8 +35,7 @@ Users should be able to:
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
-Startded the project by first looking at the design file provided on figma, taking into account the various design elements and choices. Then  when i was ready, i started writing the HTML part to define the basic structure of the project. i Started with the hero section, editting the hero picture to the desired size i wanted. then i proceeded to the section area and designed three cards using CSS flexbox. eventually i concluded by designing the guide Card at the bottom of the page. i used the [Coolors](https://coolors.co/) to generate the color Palettes used for this project. 
-
+I Startded the project by first looking at the design file provided on figma, taking into account the various design elements and choices. Then  when i was ready, i started writing the HTML part to define the basic structure of the project. i Started with the hero section, editting the hero picture to the desired size i wanted. then i proceeded to the section area and designed three cards using CSS flexbox. eventually i concluded by designing the guide Card at the bottom of the page. i used the [Coolors](https://coolors.co/) to generate the color Palettes used for this project. s
 ### Built with
 
 - Semantic HTML5 markup
