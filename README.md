@@ -1,4 +1,4 @@
-# Scrimba - Results summary HomeTown Tribute Page solution
+# HomeTown Tribute Page solution
 
 This is a solution to the Scrimba assesment. 
 
