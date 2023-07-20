@@ -20,10 +20,12 @@ After completeing the basic HTML and CSS course on [Scrimba](https://scrimba.com
 
 ### The challenge
 
-Users should be able to:
-
-- Create a well designed Tribute Page of my Home town.
-- Use the thing i have learnt through this couse to build the project. 
+- Create a well-designed Tribute Page for my Home town.
+- Use the proper CSS units on the proper elements.
+- Utilize CSS flexbox.
+- Apply the Box-shadow property (offset values for the Y and X axis, BlurRadius, SpreadRadius and color).
+- Display Photos within a circular frame.
+- Utilize an external font (google fonts).
 
 ### Screenshot
 
@@ -36,11 +38,11 @@ Users should be able to:
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
-I Startded the project by first looking at the design file provided on figma, taking into account the various design elements and choices. Then  when i was ready, i started writing the HTML part to define the basic structure of the project. i Started with the hero section, editting the hero picture to the desired size i wanted. then i proceeded to the section area and designed three cards using CSS flexbox. eventually i concluded by designing the guide Card at the bottom of the page. i used the [Coolors](https://coolors.co/) to generate the color Palettes used for this project. s
+I started the project by first looking at the design file provided on Figma, taking into account the various design elements and choices. Then, when I was ready, I started writing the HTML part to define the basic structure of the project. I Started with the hero section, editing the hero picture to the size I wanted. Then I proceeded to the section area and designed three cards using CSS flexbox. Eventually, I concluded by designing the guide Card at the bottom of the page. i used the [Coolors](https://coolors.co/) to generate the color Palettes used for this project.
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
+- Semantic HTML5 
+- CSS 
 - Flexbox
 - Photos from [pixel](https://www.pexels.com/)
 - color Palettes [Coolors](https://coolors.co/)
@@ -48,7 +50,10 @@ I Startded the project by first looking at the design file provided on figma, ta
 
 ### What I learned
   
-  I Learnt how to center elements ussing CSS flexbox
+  - I learned how to center elements using CSS flexbox.
+  - I learned how to set and properly position a hero image.
+    
+  
 
 
 ## Author
